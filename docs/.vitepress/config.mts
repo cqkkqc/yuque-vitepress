@@ -5,8 +5,8 @@ import { YuQueSVG } from "../../utils/assists";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
-  title: "Yuque-VitePress",
-  description: "语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案",
+  title: "Crysx00",
+  description: "个人博客",
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
@@ -22,8 +22,8 @@ export default defineConfig({
     outline: [2,6],
     nav: [
       { text: '首页', link: '/' },
-      { text: '配置文档', link: '/docs/入门指引/快速开始', activeMatch: '/docs/' },
-      // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
+      { text: '笔记', link: '/docs/学习计划.md', activeMatch: '/docs/' },
+
     ],
     sidebar: {
       "/docs/": await genYuqueSideBar('/docs'),
@@ -34,12 +34,12 @@ export default defineConfig({
       next: '下一篇'
     },
     socialLinks: [
-      { icon: { svg: YuQueSVG }, link: "https://www.yuque.com/1874w/yuque-vitepress-template" },
-      { icon: 'github', link: 'https://github.com/elog-x/yuque-vitepress' }
+      { icon: { svg: YuQueSVG }, link: "https://www.yuque.com/dashboard" },
+      { icon: 'github', link: 'https://github.com/cqkkqc' }
     ],
     footer: {
       message: 'Powered by <a href="https://www.yuque.com/1874w/yuque-vitepress-template" target="_blank">语雀</a>  & <a href="https://vitepress.dev" target="_blank">VitePress</a> with <a href="https://github.com/LetTTGACO/elog" target="_blank">Elog</a>',
-      copyright: 'Copyright © 2023-present'
+      copyright: 'Copyright © 2024-Crysx00'
     },
   }
 })

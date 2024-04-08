@@ -3,29 +3,32 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "Crysx00 ' Blog"
+  text: "持续建设中"
+  tagline: 分享项目、学习资料以及笔记
+  image:
+    src: /1.svg
+    alt: VitePress
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
+      text: 笔记
+      link: /docs/学习计划.md
     - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
+      text: 我的csdn-记录着一路走来的小bug
+      link: https://blog.csdn.net/qq_26239785
     - theme: alt
       text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      link: https://github.com/cqkkqc
 
 features:
   - icon: 📝
-    title: 语雀书写文档
-    details: 更好的在线写作体验，及时备份 markdown 文档到本地
+    title: Wrok
+    details: 在尝试学习硬件ing
   - icon: 🚀
-    title: 持续集成
-    details: 结合语雀 Webhooks + Github Actions + Vercel，写完及时同步到文档站点
+    title: Life
+    details: 正在学习游泳ing
   - icon: 📦
-    title: 开箱即用
-    details: 简单配置仓库即可部署属于你的文档站点
+    title: Future
+    details: 已经将光借给迪迦
 ---
 

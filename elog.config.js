@@ -20,7 +20,7 @@ module.exports = {
   deploy: {
     platform: 'local',
     local: {
-      outputDir: './docs/docs',
+      outputDir: './docs/dir1',
       filename: 'title',
       format: 'markdown',
       catalog: true,

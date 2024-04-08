@@ -1,0 +1,601 @@
+{
+  "docs": [
+    {
+      "id": 60504557,
+      "doc_id": "lr7lhn",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "FFT 快速傅里叶变换",
+        "urlname": "lr7lhn",
+        "date": "2021-11-16 10:10:47",
+        "updated": "2024-04-07 10:27:30",
+        "cover": "https://cdn.nlark.com/yuque/__latex/a3a03f49fe009d5c27f631ffd99eec9b.svg",
+        "description": "概念快速傅里叶变换 (fast Fourier transform), 即利用计算机计算离散傅里叶变换（DFT)的高效、快速计算方法的统称，简称FFT。快速傅里叶变换是1965年由J.W.库利和T.W.图基提出的。采用这种算法能使计算机计算离散傅里叶变换所需要的乘法次数大为减少，特别是被变换的..."
+      },
+      "catalog": [
+        {
+          "title": "傅里叶级数推导",
+          "doc_id": "lr7lhn"
+        }
+      ],
+      "realName": "FFT 快速傅里叶变换",
+      "relativePath": "\\傅里叶级数推导\\FFT 快速傅里叶变换.md",
+      "needUpdate": 1,
+      "docPath": "docs\\dir1\\傅里叶级数推导"
+    },
+    {
+      "id": 48764866,
+      "doc_id": "ybra83",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "模拟题",
+        "urlname": "ybra83",
+        "date": "2021-07-11 14:52:32",
+        "updated": "2024-04-07 10:27:30",
+        "description": "DHCP服务器解题思路只要按照题目的实现细节一步步翻译成代码即可实现。考试时最终没有得分，经过调试后找出了两个bug。因此说明找bug的能力有待提升此外考试时，思路非常混乱，搞了很多无谓的判断，这也是耗费时间的原因。本题是简单题！！！ 我很菜。注意n^2时间复杂度内解决即可。本题中实现细节非常..."
+      },
+      "catalog": [
+        {
+          "title": "模拟题",
+          "doc_id": "ybra83"
+        }
+      ],
+      "realName": "模拟题",
+      "relativePath": "\\模拟题\\模拟题.md",
+      "docPath": "docs\\dir1\\模拟题"
+    },
+    {
+      "id": 143068909,
+      "doc_id": "tb3m6clzi9w53kef",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "Leetcode 刷题",
+        "urlname": "tb3m6clzi9w53kef",
+        "date": "2023-10-22 09:36:28",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "Leetcode 刷题",
+      "relativePath": "\\Leetcode 刷题.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 73059448,
+      "doc_id": "gfgxc8",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "时间复杂度分析",
+        "urlname": "gfgxc8",
+        "date": "2022-04-11 17:05:34",
+        "updated": "2024-04-07 10:27:30",
+        "cover": "https://cdn.nlark.com/yuque/__latex/c592af0cdfd489c7748a989351e7f36c.svg",
+        "description": "有三个记号,,分别表示上界，下界，和同级别。可以用两函数做比较趋近无穷来分别判断。跟极限一样。值得注意的是f=O(g),表示g是f的上界，切勿搞混常用分析-证明soDFS遍历一张图的时间复杂度资料https://zhuanlan.zhihu.com/p/50479555"
+      },
+      "catalog": [],
+      "realName": "时间复杂度分析",
+      "relativePath": "\\时间复杂度分析.md",
+      "needUpdate": 1,
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 114292039,
+      "doc_id": "wnvzqvg676u480gd",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "高级算法设计与分析",
+        "urlname": "wnvzqvg676u480gd",
+        "date": "2023-02-13 10:40:36",
+        "updated": "2024-04-07 10:27:30",
+        "description": "课程资料https://github.com/sailist/AdAlgo算法考试题作答参考-v2.pdfhttps://www.bilibili.com/video/BV1Mu411Z7LJ/?spm_id_from=333.337.search-card.all.click&vd_sour..."
+      },
+      "catalog": [],
+      "realName": "高级算法设计与分析",
+      "relativePath": "\\高级算法设计与分析.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 108001680,
+      "doc_id": "cipvc6spsrh42uyt",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "学习资料",
+        "urlname": "cipvc6spsrh42uyt",
+        "date": "2022-12-01 15:27:02",
+        "updated": "2024-04-07 10:27:30",
+        "description": "https://oi-wiki.org/contest/resources/"
+      },
+      "catalog": [],
+      "realName": "学习资料",
+      "relativePath": "\\学习资料.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 90406767,
+      "doc_id": "ogwq64",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "傅里叶级数",
+        "urlname": "ogwq64",
+        "date": "2022-08-23 15:52:39",
+        "updated": "2024-04-07 10:27:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2022/png/816297/1664979606722-88d25243-0d81-45a5-b2f8-434ce768cf7b.png",
+        "description": "6个视频推导傅里叶级数https://www.bilibili.com/video/BV1Et411R78v?spm_id_from=333.337.search-card.all.click&vd_source=1f83ff2226e2df7e47cb3443ce248d8chttps://..."
+      },
+      "catalog": [
+        {
+          "title": "傅里叶级数推导",
+          "doc_id": "ogwq64"
+        }
+      ],
+      "realName": "傅里叶级数",
+      "relativePath": "\\傅里叶级数推导\\傅里叶级数.md",
+      "needUpdate": 1,
+      "docPath": "docs\\dir1\\傅里叶级数推导"
+    },
+    {
+      "id": 90406435,
+      "doc_id": "alk3i0",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "傅里叶级数推导",
+        "urlname": "alk3i0",
+        "date": "2022-08-23 15:51:10",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "傅里叶级数推导",
+      "relativePath": "\\傅里叶级数推导.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 70815171,
+      "doc_id": "rpui5l",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "凸包",
+        "urlname": "rpui5l",
+        "date": "2022-03-24 16:35:10",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [
+        {
+          "title": "计算几何",
+          "doc_id": "rpui5l"
+        }
+      ],
+      "realName": "凸包",
+      "relativePath": "\\计算几何\\凸包.md",
+      "docPath": "docs\\dir1\\计算几何"
+    },
+    {
+      "id": 70648415,
+      "doc_id": "gfcvbc",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "基础知识",
+        "urlname": "gfcvbc",
+        "date": "2022-03-23 15:53:45",
+        "updated": "2024-04-07 10:27:30",
+        "description": "1. 前置知识点     (1) pi = acos(-1);     (2) 余弦定理 c^2 = a^2 + b^2 - 2abcos(t)  2. 浮点数的比较 const double eps = 1e-8; int sign(double x)  // 符号函数 {     if (..."
+      },
+      "catalog": [
+        {
+          "title": "计算几何",
+          "doc_id": "gfcvbc"
+        }
+      ],
+      "realName": "基础知识",
+      "relativePath": "\\计算几何\\基础知识.md",
+      "docPath": "docs\\dir1\\计算几何"
+    },
+    {
+      "id": 70648161,
+      "doc_id": "ckv7g3",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "ckv7g3",
+        "date": "2022-03-23 15:52:32",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "无标题文档",
+      "relativePath": "\\无标题文档.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 56273824,
+      "doc_id": "dbkr4i",
+      "updated": 1712457513000,
+      "properties": {
+        "title": "线段树",
+        "urlname": "dbkr4i",
+        "date": "2021-10-29 14:24:44",
+        "updated": "2024-04-07 10:38:33"
+      },
+      "catalog": [],
+      "realName": "线段树",
+      "relativePath": "\\线段树.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 55814131,
+      "doc_id": "imgrin",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "模拟退火法",
+        "urlname": "imgrin",
+        "date": "2021-10-22 19:35:06",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "模拟退火法",
+      "relativePath": "\\模拟退火法.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 53813169,
+      "doc_id": "npttsw",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "质数与约数",
+        "urlname": "npttsw",
+        "date": "2021-09-21 10:34:00",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "质数与约数",
+      "relativePath": "\\质数与约数.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 53755982,
+      "doc_id": "arfnaa",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "树的基本概念",
+        "urlname": "arfnaa",
+        "date": "2021-09-19 10:28:10",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "树的基本概念",
+      "relativePath": "\\树的基本概念.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 48764833,
+      "doc_id": "wah25h",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "无标题",
+        "urlname": "wah25h",
+        "date": "2021-07-11 14:51:35",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "无标题",
+      "relativePath": "\\无标题.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 48096587,
+      "doc_id": "zps6cm",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "贪心问题",
+        "urlname": "zps6cm",
+        "date": "2021-06-30 16:06:15",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "贪心问题",
+      "relativePath": "\\贪心问题.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 46509596,
+      "doc_id": "ptx3ep",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "网络流初步",
+        "urlname": "ptx3ep",
+        "date": "2021-06-03 15:03:57",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "网络流初步",
+      "relativePath": "\\网络流初步.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 46754631,
+      "doc_id": "yxipgx",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "基本算法",
+        "urlname": "yxipgx",
+        "date": "2021-06-07 20:48:12",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "基本算法",
+      "relativePath": "\\基本算法.md",
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 46509559,
+      "doc_id": "chrh36",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "读书笔记",
+        "urlname": "chrh36",
+        "date": "2021-06-03 15:03:36",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "读书笔记",
+      "relativePath": "\\读书笔记.md",
+      "needUpdate": 1,
+      "docPath": "docs\\dir1"
+    },
+    {
+      "id": 46509558,
+      "doc_id": "wrbzgy",
+      "updated": 1712456850000,
+      "properties": {
+        "title": "学习计划",
+        "urlname": "wrbzgy",
+        "date": "2021-06-03 15:03:36",
+        "updated": "2024-04-07 10:27:30"
+      },
+      "catalog": [],
+      "realName": "学习计划",
+      "relativePath": "\\学习计划.md",
+      "needUpdate": 1,
+      "docPath": "docs\\dir1"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "Leetcode 刷题",
+      "uuid": "XxX3gRDzhVDsx7Ho",
+      "url": "tb3m6clzi9w53kef",
+      "prev_uuid": "",
+      "sibling_uuid": "UVVhZMa_EEZQfuMz",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 143068909,
+      "level": 0,
+      "id": 143068909,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "高级算法设计与分析",
+      "uuid": "UVVhZMa_EEZQfuMz",
+      "url": "wnvzqvg676u480gd",
+      "prev_uuid": "XxX3gRDzhVDsx7Ho",
+      "sibling_uuid": "bO10rkSiiWJrJXRn",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 114292039,
+      "level": 0,
+      "id": 114292039,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "学习资料",
+      "uuid": "bO10rkSiiWJrJXRn",
+      "url": "cipvc6spsrh42uyt",
+      "prev_uuid": "UVVhZMa_EEZQfuMz",
+      "sibling_uuid": "rCUZ_DJRQ59GTjPK",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 108001680,
+      "level": 0,
+      "id": 108001680,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "时间复杂度分析",
+      "uuid": "rCUZ_DJRQ59GTjPK",
+      "url": "gfgxc8",
+      "prev_uuid": "bO10rkSiiWJrJXRn",
+      "sibling_uuid": "3RBpZuqvRxE3bt7i",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 73059448,
+      "level": 0,
+      "id": 73059448,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "计算几何",
+      "uuid": "3RBpZuqvRxE3bt7i",
+      "url": "",
+      "prev_uuid": "rCUZ_DJRQ59GTjPK",
+      "sibling_uuid": "bAV3DOChgYG8Mc6h",
+      "child_uuid": "Af2UEVuuBneNvrxn",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "凸包",
+      "uuid": "Af2UEVuuBneNvrxn",
+      "url": "rpui5l",
+      "prev_uuid": "3RBpZuqvRxE3bt7i",
+      "sibling_uuid": "pR_6581r7BHdBhZ5",
+      "child_uuid": "",
+      "parent_uuid": "3RBpZuqvRxE3bt7i",
+      "doc_id": 70815171,
+      "level": 1,
+      "id": 70815171,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "基础知识",
+      "uuid": "pR_6581r7BHdBhZ5",
+      "url": "gfcvbc",
+      "prev_uuid": "Af2UEVuuBneNvrxn",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "3RBpZuqvRxE3bt7i",
+      "doc_id": 70648415,
+      "level": 1,
+      "id": 70648415,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "bAV3DOChgYG8Mc6h",
+      "url": "ckv7g3",
+      "prev_uuid": "3RBpZuqvRxE3bt7i",
+      "sibling_uuid": "PwEMwRguCcHwuc0R",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 70648161,
+      "level": 0,
+      "id": 70648161,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "傅里叶级数推导",
+      "uuid": "PwEMwRguCcHwuc0R",
+      "url": "alk3i0",
+      "prev_uuid": "bAV3DOChgYG8Mc6h",
+      "sibling_uuid": "su6KGFjbD40_p-Yf",
+      "child_uuid": "AoahsWTd5tz8WJIY",
+      "parent_uuid": "",
+      "doc_id": 90406435,
+      "level": 0,
+      "id": 90406435,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "傅里叶级数",
+      "uuid": "AoahsWTd5tz8WJIY",
+      "url": "ogwq64",
+      "prev_uuid": "PwEMwRguCcHwuc0R",
+      "sibling_uuid": "7xNL-AVDtf24mf0T",
+      "child_uuid": "",
+      "parent_uuid": "PwEMwRguCcHwuc0R",
+      "doc_id": 90406767,
+      "level": 1,
+      "id": 90406767,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "FFT 快速傅里叶变换",
+      "uuid": "7xNL-AVDtf24mf0T",
+      "url": "lr7lhn",
+      "prev_uuid": "AoahsWTd5tz8WJIY",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "PwEMwRguCcHwuc0R",
+      "doc_id": 60504557,
+      "level": 1,
+      "id": 60504557,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "模拟题",
+      "uuid": "su6KGFjbD40_p-Yf",
+      "url": "",
+      "prev_uuid": "PwEMwRguCcHwuc0R",
+      "sibling_uuid": "20131311:op2ITHdwJfLZvYXY",
+      "child_uuid": "dt5zA1c9kzbu1Cu0",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "模拟题",
+      "uuid": "dt5zA1c9kzbu1Cu0",
+      "url": "ybra83",
+      "prev_uuid": "su6KGFjbD40_p-Yf",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "su6KGFjbD40_p-Yf",
+      "doc_id": 48764866,
+      "level": 1,
+      "id": 48764866,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "学习计划",
+      "uuid": "20131311:op2ITHdwJfLZvYXY",
+      "url": "wrbzgy",
+      "prev_uuid": "su6KGFjbD40_p-Yf",
+      "sibling_uuid": "20131311:PheRkmT6qRf1T-cn",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 46509558,
+      "level": 0,
+      "id": 46509558,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "读书笔记",
+      "uuid": "20131311:PheRkmT6qRf1T-cn",
+      "url": "chrh36",
+      "prev_uuid": "20131311:op2ITHdwJfLZvYXY",
+      "sibling_uuid": "9CBy4_aKHQndKpEi",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 46509559,
+      "level": 0,
+      "id": 46509559,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "网络流初步",
+      "uuid": "9CBy4_aKHQndKpEi",
+      "url": "ptx3ep",
+      "prev_uuid": "20131311:PheRkmT6qRf1T-cn",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 46509596,
+      "level": 0,
+      "id": 46509596,
+      "open_window": 1,
+      "visible": 0
+    }
+  ]
+}
